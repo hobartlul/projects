@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="spring-mvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/domain-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl-2.2.3-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-client-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-core-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-json-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-server-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-servlet-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-spring-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/service-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sitemesh-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-asm-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-support-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-api-1.0-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

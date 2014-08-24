@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+    <head>
+       <script type="text/javascript" src="${rc.contextPath}/js/jquery-1.8.3.min.js"></script> 
+        ${head}
+    </head>
+    <body >
+    
+        <div>
+          <b>header</b>
+        </div>
+        <span id="requestContext" style="display: none;">${rc.contextPath}</span>
+        ${body}
+    
+    </body>
+
+    <footer >
+        <b>footer</b>
+    </footer>  
+
+</html>
